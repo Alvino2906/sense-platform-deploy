@@ -5,8 +5,7 @@
             "framework": "create-react-app"
         },
         "backend": {
-            "root": "backend",
-            "type": "node"
+            "root": "backend"
         }
     },
     "rewrites": [
