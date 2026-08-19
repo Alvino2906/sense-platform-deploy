@@ -16,7 +16,7 @@
       "dest": "backend/server.js"
     },
     {
-      "src": "/login",
+      "src": "/auth/(.*)",
       "dest": "backend/server.js"
     },
     {
